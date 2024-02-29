@@ -1,0 +1,57 @@
+
+.titulo{
+    color: rgb(185, 54, 211);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.texto1{
+    line-height: 1.4;
+    text-transform: inherit;
+    word-spacing: 10px;
+    font-style: oblique;
+    font-size: 18px;
+    color: rgb(34, 31, 218);
+
+}
+.imagem1{
+    width: 400px;
+    border-radius: 40px;
+}
+
+.caixa1{
+    background-color: rgb(203, 203, 214);
+    border-radius: 8px;
+}
+
+.link1{
+    color: black;
+}
+
+.texto2{
+    line-height: 1.5;
+    text-transform: inherit;
+    word-spacing: 15px;
+    font-style: oblique;
+    font-size: 18px;
+    color: rgb(34, 31, 218);
+}
+
+.imagem2{
+    width: 400px;
+    border-radius: 40px;
+}
+
+.caixa2{
+    background-color: rgb(203, 203, 214);
+    border-radius: 10px;
+}
+
+.link2{
+    color: black;
+}
